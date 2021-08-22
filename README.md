@@ -9,8 +9,9 @@ I used the latest version of Android Studio 2020.3.1 which has updated gradle fi
 Go to File > Settings > Build, Execution, Deployment > Build Tools > Gradle. Here you will see an option to change the JDK version from any of the current JDK version. Click on the current version and go to Download JDK. Here choose Version 11 and the vendor can be anyone. Voila! You've updated and can now run the application.
 
 ## Implementations Used
-- Shared Preference
-- Data Binding
+- Gson
+- DataBinding
+- SharedPreference
 
 ## APK
 https://drive.google.com/file/d/1efJz1_UpzeBEy2ppzU8KjGtc9FMTS0N3/view?usp=sharing
