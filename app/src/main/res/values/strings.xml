@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Drag and Drop Application</string>
+    <string name="presented_by">Presented by Daniel Gabrieal Jayarajan</string>
+    <string name="enter_your_email">Enter your email</string>
+    <string name="enter_your_password">Enter your password</string>
+    <string name="login_to_continue">Login to continue</string>
+    <string name="login">Login</string>
+    <string name="not_a_member_don_t_worry_sign_up_here">Not a member? Don\'t worry! Sign up here</string>
+    <string name="sign_up">Sign Up</string>
+    <string name="sign_up_to_continue">Sign up to continue</string>
+    <string name="confirm_your_password">Confirm your password</string>
+    <string name="already_a_member">Already a member? Sign in right here</string>
+</resources>
